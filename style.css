@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(242, 196, 184);
+    color:rgb(27, 34, 125);
+}
+
+
+#navigation {
+    background-color: rgb(27, 34, 125); 
+    color: rgb(242, 196, 184);
+    padding-top: 0;
+}
+
+#navbarlist{
+    color: rgb(242, 196, 184);
+}
+
